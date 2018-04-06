@@ -1,0 +1,8 @@
+install setup.py
+type python setup.py
+you need to do this only once
+
+to run facefuzz 
+cd to this folder
+type python facefuzz.py in the terminal 
+
